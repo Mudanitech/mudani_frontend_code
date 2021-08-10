@@ -1,0 +1,6 @@
+module Pods_Mudani_MudaniTests {
+  umbrella header "Pods-Mudani-MudaniTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

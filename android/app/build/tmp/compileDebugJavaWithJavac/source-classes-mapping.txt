@@ -1,0 +1,16 @@
+com/mudani/MainApplication.java
+ com.mudani.MainApplication
+ com.mudani.MainApplication$1
+com/mudani/SplashActivity.java
+ com.mudani.SplashActivity
+com/mudani/ReactNativeFlipper.java
+ com.mudani.ReactNativeFlipper
+ com.mudani.ReactNativeFlipper$1
+ com.mudani.ReactNativeFlipper$2
+ com.mudani.ReactNativeFlipper$2$1
+com/mudani/MainActivity.java
+ com.mudani.MainActivity
+com/mudani/BuildConfig.java
+ com.mudani.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

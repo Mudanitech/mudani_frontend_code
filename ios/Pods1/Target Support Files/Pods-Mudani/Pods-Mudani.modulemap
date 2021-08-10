@@ -1,0 +1,6 @@
+module Pods_Mudani {
+  umbrella header "Pods-Mudani-umbrella.h"
+
+  export *
+  module * { export * }
+}

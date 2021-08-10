@@ -1,0 +1,1 @@
+export const baseApiUrl = 'http://mudani.com:3006/api/v1/user/'

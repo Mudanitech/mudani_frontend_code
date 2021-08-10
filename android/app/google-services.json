@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245503915197",
+    "project_id": "mudani-310807",
+    "storage_bucket": "mudani-310807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245503915197:android:08b88a615d4abe5966f3d4",
+        "android_client_info": {
+          "package_name": "com.mudani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245503915197-jd312srdrrte5qnl0v6bfmscb28b9h42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mudani",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "245503915197-lnvsd5se9vs8mv5b47sikcf707k82p44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRxQ6P3wQGDHHmEjfs1BDHAAX9J9hF5tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245503915197-lnvsd5se9vs8mv5b47sikcf707k82p44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

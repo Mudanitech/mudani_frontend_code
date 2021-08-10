@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">245503915197-lnvsd5se9vs8mv5b47sikcf707k82p44.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">245503915197</string>
+    <string name="google_api_key" translatable="false">AIzaSyCRxQ6P3wQGDHHmEjfs1BDHAAX9J9hF5tU</string>
+    <string name="google_app_id" translatable="false">1:245503915197:android:08b88a615d4abe5966f3d4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCRxQ6P3wQGDHHmEjfs1BDHAAX9J9hF5tU</string>
+    <string name="google_storage_bucket" translatable="false">mudani-310807.appspot.com</string>
+    <string name="project_id" translatable="false">mudani-310807</string>
+</resources>
